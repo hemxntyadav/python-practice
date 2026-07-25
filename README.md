@@ -1,2 +1,3 @@
-# python-practice
-Python programs and practice.
+# Python Practice
+
+This repository contains my Python learning programs.
